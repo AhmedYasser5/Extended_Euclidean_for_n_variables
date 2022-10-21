@@ -1,0 +1,7 @@
+Success: Found 5 for a vector of size 90 in 0 ms
+Success: Found 5 for a vector of size 900 in 5 ms
+Success: Found 5 for a vector of size 9000 in 51 ms
+Success: Found 5 for a vector of size 90000 in 448 ms
+Success: Found 5 for a vector of size 900000 in 4605 ms
+Success: Found 5 for a vector of size 1800000 in 8315 ms
+Success: Found 5 for a vector of size 3600000 in 16632 ms
